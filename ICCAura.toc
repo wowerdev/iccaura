@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: ICCAura
+## Author: wowerdev (github.com/wowerdev)
+## Version: 1.0
+## Notes: Addon for reset teleport aura in Icecrown Citadel.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+ICCAura.lua
+ICCAura.xml
